@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\bin\Debug\gravityAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\bin\Debug\gravityAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\bin\Debug\gravityAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\bin\Debug\gravityAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\gravityAyden\gravityAyden\obj\Debug\gravityAyden.pdb
